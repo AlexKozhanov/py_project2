@@ -29,7 +29,7 @@ def title_str(user_str):
     return user_str
 
 def main():
-    # Ход основной программы
+# Ход основной программы
     print("Введите строку")
     user_input = input()
     print(f"Строка1: {upper_str(user_input)}")
